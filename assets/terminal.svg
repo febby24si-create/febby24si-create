@@ -1,0 +1,31 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="718" height="258" rx="12" fill="url(#termbg)" stroke="#2A2A2A" stroke-width="1"/>
+
+  <rect x="1" y="1" width="718" height="36" rx="12" fill="#161616"/>
+  <rect x="1" y="25" width="718" height="12" fill="#161616"/>
+  <circle cx="26" cy="19" r="6" fill="#FF5F57"/>
+  <circle cx="46" cy="19" r="6" fill="#FEBC2E"/>
+  <circle cx="66" cy="19" r="6" fill="#28C840"/>
+  <text x="360" y="24" font-family="JetBrains Mono, monospace" font-size="12" fill="#666666" text-anchor="middle">fahrezy@dev — zsh</text>
+
+  <text x="24" y="70" font-family="JetBrains Mono, monospace" font-size="14" fill="#8A8A8A">$ whoami</text>
+  <text x="24" y="94" font-family="JetBrains Mono, monospace" font-size="14" fill="#FFFFFF">fahrezy — full stack developer</text>
+
+  <text x="24" y="128" font-family="JetBrains Mono, monospace" font-size="14" fill="#8A8A8A">$ cat philosophy.txt</text>
+  <text x="24" y="152" font-family="JetBrains Mono, monospace" font-size="13" fill="#B3B3B3">simple is not the absence of complexity.</text>
+  <text x="24" y="172" font-family="JetBrains Mono, monospace" font-size="13" fill="#B3B3B3">it's complexity, resolved.</text>
+
+  <text x="24" y="206" font-family="JetBrains Mono, monospace" font-size="14" fill="#8A8A8A">$ status</text>
+  <text x="24" y="230" font-family="JetBrains Mono, monospace" font-size="14" fill="#28C840">building. shipping. learning.</text>
+
+  <rect x="24" y="238" width="8" height="14" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
