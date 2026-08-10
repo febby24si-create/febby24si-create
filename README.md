@@ -1,200 +1,226 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Febby Fahrezy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,36,36&height=280&section=header&text=Febby%20Fahrezy&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20|%20Full-Stack%20Systems&descAlignY=51&descAlign=62" alt="Febby Fahrezy Header"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1400&color=D4D4D4&center=true&vCenter=true&repeat=true&width=560&height=40&lines=Full+Stack+Developer;Sistem+Informasi+%40+Politeknik+Caltex+Riau;Shipping+PromptVerse+AI" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Enthusiast;Data-Driven+Problem+Solver" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/febby24si-create"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/febby-fahrezy?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/x.rezy_?igsh=czhjbm5oYXN2NXJ5"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:febby24si@mahasiswa.pcr.ac.id"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/febby24si-create"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/febby-fahrezy"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/x.rezy_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:febby24si@mahasiswa.pcr.ac.id"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=febby24si-create&label=PROFILE+VIEWS&color=0D0D0D&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-<img src="./assets/divider.svg" width="100%" />
+## About Me
 
-<br/>
+Student developer at Politeknik Caltex Riau (Sistem Informasi). I build **full-stack systems**, **mobile applications**, and **data-driven solutions** — projects that solve real problems across web, backend, and mobile platforms. Every project starts with thoughtful architecture: clean data models, reliable APIs, and interfaces that work.
 
-<!--START_SECTION:quote-->
-<!--END_SECTION:quote-->
+I enjoy building practical software that improves everyday workflows, especially in education, business operations, and public administration.
 
-<br/>
+My focus: **shipping working software** that demonstrates technical depth across the full development stack.
 
-## whoami
+---
 
-<img src="./assets/terminal.svg" width="100%" />
+## 🚀 Currently Working On
 
-```bash
-fahrezy@dev ~ % whoami
+- **[PromptVerse AI](https://github.com/febby24si-create/promptverse-ai)** – Netflix-style discovery platform for AI prompts  
+- **[EstherGarage](https://github.com/febby24si-create/esthergarage)** – CRM & booking system for automotive service shops
 
-  name         Febby Fahrezy (Rezy)
-  role         Full Stack Developer
-  study        Sistem Informasi, Politeknik Caltex Riau — class 2 SI D
-  location     Indonesia
-  focus        PromptVerse AI · EstherGarage
-  status       shipping, always
+---
 
-fahrezy@dev ~ % cat philosophy.txt
-
-  "Simple is not the absence of complexity.
-   It's complexity, resolved."
-```
-
-<br/>
-
-I build software that is fast, deliberate, and quiet in its complexity — interfaces engineered, not decorated. My focus sits at the intersection of **frontend craftsmanship** and **backend architecture**: interfaces that feel inevitable, systems that don't break under pressure.
-
-I start every project with the data model, not the UI — if the schema is wrong, no amount of polish fixes it later. Once the architecture is settled, that's where the obsession kicks in: spacing, motion, timing, contrast. Small things compound into something that feels expensive.
-
-Currently a Sistem Informasi student, spending most hours shipping full-stack products end to end — schema design, API architecture, state management, and the last-mile UI details most people skip.
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br/>
-
-## Stack
+## What I Build
 
 <div align="center">
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,nextjs,html,css&theme=dark" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs&theme=dark" />
-
-<br/><br/>
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark" />
-
-<br/><br/>
-
-**Tooling**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux&theme=dark" />
+| | |
+|---|---|
+| **🌐 Web & Full-Stack Systems** | Complete applications from database schema to responsive frontends |
+| **🏢 Business & Management Applications** | Administrative systems, CRM platforms, and operational dashboards |
+| **📱 Android / Mobile Applications** | Native Android development with modern libraries and tooling |
+| **📊 Data Visualization & Analytics** | Dashboards and reports that surface insights from structured data |
 
 </div>
 
-<br/>
+---
 
-```javascript
-const rezy = {
-  role: "Full Stack Developer",
-  study: "Sistem Informasi @ Politeknik Caltex Riau",
+## Technical Stack
 
-  stack: {
-    frontend: ["React", "TypeScript", "JavaScript", "Next.js", "Tailwind CSS"],
-    backend: ["Laravel", "PHP", "Node.js"],
-    database: ["Supabase", "PostgreSQL", "MySQL"],
-    tools: ["Git", "Docker", "Figma", "VS Code", "Postman", "Linux"],
-  },
+**Backend & Frameworks**
 
-  currentlyBuilding: [
-    "PromptVerse AI — Netflix-style discovery platform for AI prompts",
-    "EstherGarage — CRM & booking system for automotive service shops",
-  ],
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter%203-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-  currentlyLearning: ["Docker", "CI/CD", "Cloud Computing", "System Design", "Machine Learning"],
+**Frontend & UI**
 
-  principles: [
-    "design the schema before the UI",
-    "interfaces engineered, not decorated",
-    "ship over talk",
-  ],
-};
+![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-8884D8?style=for-the-badge)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-export default rezy;
-```
+**Mobile Development**
 
-<br/>
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<div align="right"><sub><a href="./profile/stack.md">Full stack breakdown →</a></sub></div>
+**Database & Storage**
 
-<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="./assets/divider.svg" width="100%" />
+**Tools & Platform**
 
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Projects
+---
+
+## Featured Projects
+
+### Primary Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**EstherGarage**
-<br/>
-<sub>Garage Management System</sub>
+#### SIPEDES v2.0
+**Village Information & Data Management System**
 
-Full-stack platform for automotive service businesses — booking, CRM, and loyalty unified into one operational dashboard.
+[→ Repository](https://github.com/febby24si-create/SIPEDES-v2.0)
 
-`React` `Supabase` `Tailwind CSS`
+Complete management system for village administration — replacing paper-based processes with structured digital records.
+
+**Tech:** Laravel 12 · MySQL
+
+**Key Features:**
+- Administrative dashboard for data management
+- Structured database schema for village records
+- Multi-user administrative interface
+- End-to-end full-stack architecture
+
+**Type:** Academic Student Project
 
 </td>
 <td width="50%" valign="top">
 
-**TikoemPoint**
-<br/>
-<sub>Coffee Shop POS</sub>
+#### rezy-esther-portfolio
+**Automotive Service & CRM Frontend Application**
 
-Point-of-sale system for small F&B operations — checkout flow, inventory, and sales reporting.
+[→ Repository](https://github.com/febby24si-create/rezy-esther-portfolio)
 
-`React` `PostgreSQL`
+Modern frontend application for automotive service business operations — managing bookings, customer information, and service workflows.
+
+**Tech:** React 19 · Vite · Tailwind CSS · shadcn/ui · Framer Motion · Recharts · Leaflet · Axios
+
+**Key Features:**
+- Service booking and scheduling interface
+- Customer management dashboard with data visualization
+- Responsive multi-device layout
+- Dynamic charts and location mapping
+- Smooth UI transitions and animations
+
+**Type:** Personal Project
+
+</td>
+</tr>
+</table>
+
+### Additional Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### RezyEsther-Apps
+**Native Android Mobile Application**
+
+[→ Repository](https://github.com/febby24si-create/RezyEsther-Apps)
+
+Android application built with modern native development tools and libraries.
+
+**Tech:** Kotlin · Java · Android · Room · Retrofit · CameraX · ML Kit
+
+**Key Features:**
+- Native Android development with Kotlin and Java
+- Local data persistence using Room ORM
+- RESTful API integration with Retrofit
+- Camera functionality via CameraX
+- Machine learning capabilities with ML Kit
+
+**Type:** Academic / Mobile Development Project
+
+</td>
+<td width="50%" valign="top">
+
+#### Sistem-POS-Kelompok2
+**Point-of-Sale & Order Management System**
+
+[→ Repository](https://github.com/febby24si-create/Sistem-POS-Kelompok2)
+
+Complete point-of-sale system for order and inventory management in retail operations.
+
+**Tech:** CodeIgniter 3 · MySQL
+
+**Key Features:**
+- Transaction and checkout management
+- Inventory tracking and updates
+- Order processing workflow
+- Sales reporting and data management
+
+**Type:** Academic Group Project
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**SIPEDES**
-<br/>
-<sub>Village Information System</sub>
+#### Esther-powerBI-Dashboard
+**Data Visualization & Analytics Dashboard**
 
-Digital administration system for village-level government, replacing paper-based processes with structured records.
+[→ Repository](https://github.com/febby24si-create/Esther-powerBI-Dashboard)
 
-`Laravel` `MySQL`
+Business intelligence dashboard for data visualization and reporting.
 
-</td>
-<td width="50%" valign="top">
+**Tech:** Power BI
 
-**PromptVerse AI**
-<br/>
-<sub>AI Prompt Discovery Platform</sub>
+**Key Features:**
+- Data visualization and interactive reporting
+- Dashboard design for data analysis
+- Business metrics and analytics
 
-"Netflix for AI prompts" — browse, curate, and organize prompts with a modern, fast interface.
-
-`Next.js` `Supabase` `Tailwind CSS`
+**Type:** Personal Project
 
 </td>
 </tr>
 </table>
 
-<div align="right"><sub><a href="./profile/projects.md">Full project breakdown →</a></sub></div>
-
 <br/>
 
-<img src="./assets/divider.svg" width="100%" />
+<div align="center">
 
-<br/>
+**→ [Explore All Repositories](https://github.com/febby24si-create?tab=repositories)**
 
-## Stats
+*Check out all my projects to see more of what I'm building across different domains and technologies.*
+
+</div>
+
+---
+
+## GitHub Activity & Stats
 
 <div align="center">
 
@@ -211,51 +237,33 @@ Digital administration system for village-level government, replacing paper-base
 
 <br/>
 
-**Contribution Snake**
-
-<img src="https://raw.githubusercontent.com/febby24si-create/febby24si-create/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=febby24si-create&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" width="95%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=febby24si-create&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" />
+<!-- Contribution Snake (di-generate otomatis oleh GitHub Action) -->
+<img src="https://raw.githubusercontent.com/febby24si-create/febby24si-create/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
-<div align="right"><sub><a href="./profile/stats.md">Full stats page →</a></sub></div>
+---
 
-<br/>
+> 💡 *"Build systems, not just features."*
 
-<img src="./assets/divider.svg" width="100%" />
+---
 
-<br/>
-
-## Explore
+## Connect
 
 <div align="center">
 
-| | |
-|---|---|
-| [**About →**](./profile/about.md) | How I think about building software |
-| [**Stack →**](./profile/stack.md) | Frontend, backend, database, tooling |
-| [**Projects →**](./profile/projects.md) | EstherGarage, TikoemPoint, SIPEDES |
-| [**Stats →**](./profile/stats.md) | GitHub activity, languages, trophies |
-| [**Philosophy →**](./profile/philosophy.md) | What I'm learning, goals for 2026 |
-| [**Contact →**](./profile/contact.md) | Reach out |
+Open to collaboration, discussions about software architecture, and opportunities to build meaningful projects.
 
-</div>
-
-<br/>
-
-<img src="./assets/divider.svg" width="100%" />
-
-<br/>
-
-<div align="center">
-
-<sub>Open to collaboration, freelance work, and interesting problems.</sub>
+**Email:** [febby24si@mahasiswa.pcr.ac.id](mailto:febby24si@mahasiswa.pcr.ac.id)  
+**LinkedIn:** [febby-fahrezy](https://www.linkedin.com/in/febby-fahrezy)  
+**GitHub:** [@febby24si-create](https://github.com/febby24si-create)
 
 <br/><br/>
 
-<img src="./assets/logo.svg" width="48" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
 
 </div>
